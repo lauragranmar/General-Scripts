@@ -1,0 +1,19 @@
+Pt 
+SYSTEM = Pt bulk calculation
+ISTART = 0 
+INIWAV = 1
+ICHARG = 2
+PREC = Normal 
+GGA = 91 
+ENCUT = 450 
+ISMEAR = 2 
+SIGMA= 0.2
+ALGO = NORMAL
+NCORE = 8  
+IBRION = 2 
+NELMIN = 10 
+NSW = 10
+POTIM = 0.2
+EDIFF = 1E-6  
+EDIFFG = -0.02
+

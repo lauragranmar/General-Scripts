@@ -1,0 +1,5 @@
+Lattice parameter fit to the equation of state using murnaghan eos
+
+Minimum volume                     15.8593042062
+Minimum Energy                     -24.4184938778
+Lattice Constant      (murnaghan): 3.98824081478

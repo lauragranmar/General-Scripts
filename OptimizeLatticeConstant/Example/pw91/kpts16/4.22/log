@@ -1,0 +1,47 @@
+This job started on
+Tue Jan 22 12:57:33 CET 2019
+ running on   16 total cores
+ distrk:  each k-point on   16 cores,    1 groups
+ distr:  one band on    8 cores,    2 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build Apr 17 2018 18:25:23) complex          
+  
+ POSCAR found :  1 types and       4 ions
+
+ ----------------------------------------------------------------------------- 
+|                                                                             |
+|  ADVICE TO THIS USER RUNNING 'VASP/VAMP'   (HEAR YOUR MASTER'S VOICE ...):  |
+|                                                                             |
+|      You enforced a specific xc-type in the INCAR file,                     |
+|      a different type was found on the POTCAR file                          |
+|          I HOPE YOU KNOW, WHAT YOU ARE  DOING                               |
+|                                                                             |
+ ----------------------------------------------------------------------------- 
+
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR found :  1 types and       4 ions
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.406913454711E+03    0.40691E+03   -0.16831E+04  5784   0.145E+03
+DAV:   2     0.628184345696E+01   -0.40063E+03   -0.38732E+03  5816   0.495E+02
+DAV:   3    -0.239193534887E+02   -0.30201E+02   -0.29128E+02  8016   0.113E+02
+DAV:   4    -0.249705419541E+02   -0.10512E+01   -0.10306E+01  6120   0.306E+01
+DAV:   5    -0.250094833860E+02   -0.38941E-01   -0.38896E-01  7576   0.359E+00    0.757E+00
+DAV:   6    -0.233512764093E+02    0.16582E+01   -0.53005E+00  7504   0.242E+01    0.159E+00
+DAV:   7    -0.232962040354E+02    0.55072E-01   -0.23976E-01  8792   0.426E+00    0.654E-01
+DAV:   8    -0.232889327941E+02    0.72712E-02   -0.12290E-02  5968   0.137E+00    0.903E-02
+DAV:   9    -0.232887100437E+02    0.22275E-03   -0.14876E-03  8296   0.399E-01    0.263E-02
+DAV:  10    -0.232887201102E+02   -0.10067E-04   -0.43579E-05  6816   0.462E-02    0.361E-03
+DAV:  11    -0.232887212643E+02   -0.11541E-05   -0.17429E-06  4568   0.133E-02    0.545E-04
+DAV:  12    -0.232887209193E+02    0.34503E-06   -0.32643E-07  3056   0.673E-03
+   1 F= -.23288721E+02 E0= -.23286254E+02  d E =-.232887E+02
+ curvature:   0.00 expect dE= 0.000E+00 dE for cont linesearch  0.000E+00
+ trial: gam= 0.00000 g(F)=  0.187E-59 g(S)=  0.000E+00 ort = 0.000E+00 (trialstep = 0.100E+01)
+ search vector abs. value=  0.100E-09
+ reached required accuracy - stopping structural energy minimisation
+ writing wavefunctions
+This job finished on
+Tue Jan 22 12:57:57 CET 2019

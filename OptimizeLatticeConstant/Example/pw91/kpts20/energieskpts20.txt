@@ -1,0 +1,12 @@
+3.84    energy  without entropy=      -23.69611707  energy(sigma->0) =      -23.69957728
+3.86    energy  without entropy=      -23.88895586  energy(sigma->0) =      -23.89246512
+3.88    energy  without entropy=      -24.04846018  energy(sigma->0) =      -24.05202113
+3.91    energy  without entropy=      -24.22962622  energy(sigma->0) =      -24.23326975
+3.93    energy  without entropy=      -24.31444970  energy(sigma->0) =      -24.31815269
+3.95    energy  without entropy=      -24.37259854  energy(sigma->0) =      -24.37636591
+3.98    energy  without entropy=      -24.41329298  energy(sigma->0) =      -24.41716677
+4.00    energy  without entropy=      -24.41204286  energy(sigma->0) =      -24.41599380
+4.05    energy  without entropy=      -24.31954785  energy(sigma->0) =      -24.32375883
+4.20    energy  without entropy=      -23.44743805  energy(sigma->0) =      -23.45336116
+4.22    energy  without entropy=      -23.28019406  energy(sigma->0) =      -23.28650240
+4.26    energy  without entropy=      -22.91891673  energy(sigma->0) =      -22.92610220
